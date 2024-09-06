@@ -24,7 +24,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.35",
     "@emotion/styled": "^10.0.27",
-    "@octokit/rest": "^16.28.7",
+    "@octokit/rest": "^17.0.0",
     "@types/common-tags": "^1.8.1",
     "apollo-cache-inmemory": "^1.6.2",
     "apollo-client": "^2.6.3",
