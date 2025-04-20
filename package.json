@@ -51,7 +51,7 @@
     "@types/node": "^18.16.3",
     "@types/react": "^18.2.7",
     "@types/react-dom": "^18.2.4",
-    "@vitejs/plugin-react": "^4.0.0",
+    "@vitejs/plugin-react": "^4.4.0",
     "algoliasearch": "^4.17.0",
     "autoprefixer": "^10.4.14",
     "browser-lang": "0.1.0",
